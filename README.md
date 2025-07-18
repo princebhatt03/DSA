@@ -11,6 +11,7 @@ Welcome to my **DSA with Java** repository! This repository is a structured and 
 
 ## 📁 Repository Structure
 
+```
 DSA-Java/
 │
 ├── 00_Introduction_to_Java/ # Basics of Java programming
@@ -32,7 +33,7 @@ DSA-Java/
 │ └── ...
 │
 └── README.md
-
+```
 
 Each DSA folder contains:
 - 📚 Topic-wise Notes (in Markdown or PDF format)

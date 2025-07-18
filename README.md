@@ -90,7 +90,8 @@ Navigate to any topic folder to read the notes and review the source code.
 
 Run Java files using any IDE like VS Code or IntelliJ IDEA.
 
-🌟 Contributions
+2. **Contribute:**
+
 This is a personal learning repository, but if you’d like to contribute:
 
 Fork the repo
@@ -99,7 +100,7 @@ Create a new branch
 
 Submit a pull request
 
-📬 Connect With Me
+📬 **Connect With Me**
 
 👨‍💻 Portfolio Website: [Link](https://princebhatt03.github.io/Portfolio)
 

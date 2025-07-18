@@ -100,8 +100,13 @@ Create a new branch
 Submit a pull request
 
 📬 Connect With Me
-👨‍💻 Portfolio Website:(https://princebhatt03.github.io/Portfolio)
 
-💼 LinkedIn: (https://www.linkedin.com/in/prince-bhatt-0958a725a)
+👨‍💻 Portfolio Website: [Link](https://princebhatt03.github.io/Portfolio)
 
-🐙 GitHub: (https://github.com/princebhatt03)
+💼 LinkedIn: [Link](https://www.linkedin.com/in/prince-bhatt-0958a725a)
+
+🐙 GitHub: [Link](https://github.com/princebhatt03)
+
+```
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=🙏+Thank+you+for+visiting+this+repository!;⭐+Don't+forget+to+Star+the+Repo+if+you+find+it+helpful!" alt="Typing SVG"> </p>
+```

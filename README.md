@@ -84,7 +84,7 @@ Each DSA folder contains:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/DSA-Java.git
+   git clone https://github.com/princebhatt03/DSA
    
 Navigate to any topic folder to read the notes and review the source code.
 

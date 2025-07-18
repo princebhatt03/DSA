@@ -107,6 +107,4 @@ Submit a pull request
 
 🐙 GitHub: [Link](https://github.com/princebhatt03)
 
-```
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=🙏+Thank+you+for+visiting+this+repository!;⭐+Don't+forget+to+Star+the+Repo+if+you+find+it+helpful!" alt="Typing SVG"> </p>
-```

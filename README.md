@@ -100,7 +100,7 @@ Create a new branch
 
 Submit a pull request
 
-📬 **Connect With Me**
+## 📬 Connect With Me
 
 👨‍💻 Portfolio Website: [Link](https://princebhatt03.github.io/Portfolio)
 
